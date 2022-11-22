@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BharadwajaDhurjati
+- 👋 Hi, I’m @DhurjatiBharadwaja
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning web development technologies
 - 💞️ I’m looking to collaborate on front end technologies
